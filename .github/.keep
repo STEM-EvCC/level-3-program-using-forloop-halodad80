@@ -1,0 +1,5 @@
+# iterating over a list
+
+my_list = [69, 420, 6969, 5000, 1.3598]
+for item in my_list:
+    print(item)
